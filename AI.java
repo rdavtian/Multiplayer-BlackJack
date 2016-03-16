@@ -8,7 +8,7 @@ import java.util.ArrayList;
            *
            */
 
-public class AI_Player implements Player1 {
+public class AI implements Player1 {
 	 private String name;
    private ArrayList<Hand> hands;
    private int winCount;
@@ -21,7 +21,7 @@ public class AI_Player implements Player1 {
  * Constructor that intializes the declared instance variables of class AI.
  */
 
-   public AI_Player(String name, int position)
+   public AI(String name, int position)
    {		
       this.setName(name);
       this.setBoardPosition(position);
