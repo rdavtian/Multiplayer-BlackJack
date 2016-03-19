@@ -1,2 +1,2 @@
-# Multiplayer-BlackJack
-Multiplayer blackjack game that implements multi-player, AI's, betting, and splitting
+# Multiplayer-Blackjack Game
+Multiplayer Blackjack game that implements players and dealer with their respective rules along with betting, splitting, and increase betting. 
